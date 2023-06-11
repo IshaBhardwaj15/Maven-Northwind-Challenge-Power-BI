@@ -2,7 +2,7 @@
 
 Interactive Report:
 
-https://app.powerbi.com/groups/me/reports/3bd10b12-4ba4-4b08-8a94-06945f086b5e/ReportSection?experience=power-bi&bookmarkGuid=Bookmark9f38e824009bb485aaee
+https://app.powerbi.com/view?r=eyJrIjoiOTAwNGE2NjktMmJlZC00ODIwLTk2OGMtZGU0OTljYjVlY2RkIiwidCI6Ijc5NGU5NjM3LTUxNTItNDY4NS04ZTk0LWIzNTU1Y2YyYmQzOCJ9
 
 More details at:
 
